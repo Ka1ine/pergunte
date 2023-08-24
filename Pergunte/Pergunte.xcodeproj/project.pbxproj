@@ -12,6 +12,7 @@
 		FAD3E5162A968D53006C3D94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD3E5152A968D53006C3D94 /* Assets.xcassets */; };
 		FAD3E5192A968D53006C3D94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD3E5182A968D53006C3D94 /* Preview Assets.xcassets */; };
 		FAD3E5202A9691BD006C3D94 /* PerguntaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD3E51F2A9691BD006C3D94 /* PerguntaView.swift */; };
+		FAD3E5272A96CA02006C3D94 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = FAD3E5262A96CA02006C3D94 /* OFL.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,8 @@
 		FAD3E5152A968D53006C3D94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAD3E5182A968D53006C3D94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FAD3E51F2A9691BD006C3D94 /* PerguntaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerguntaView.swift; sourceTree = "<group>"; };
+		FAD3E5262A96CA02006C3D94 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		FAD3E5282A96CA0F006C3D94 /* LilitaOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "LilitaOne-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 			isa = PBXGroup;
 			children = (
 				FAD3E5182A968D53006C3D94 /* Preview Assets.xcassets */,
+				FAD3E5262A96CA02006C3D94 /* OFL.txt */,
+				FAD3E5282A96CA0F006C3D94 /* LilitaOne-Regular.ttf */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -128,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAD3E5272A96CA02006C3D94 /* OFL.txt in Resources */,
 				FAD3E5192A968D53006C3D94 /* Preview Assets.xcassets in Resources */,
 				FAD3E5162A968D53006C3D94 /* Assets.xcassets in Resources */,
 			);
